@@ -1,6 +1,5 @@
-from Dado import Dado
+from Juego import Juego
 
-dado_1=Dado()
-dado_2=Dado()
+miJuego=Juego()
 
-dado_1
+miJuego.lanzar_punto()
